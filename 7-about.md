@@ -23,19 +23,17 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 8.-Entrevistas a especialistas, activistas y funcionarios públicos.
  ~~~
 
-==
-**Sobre el equipo**
 
+**Sobre el equipo**  
 
-**Dirección**: Fernanda Hopenhaym y Elena Arengo.
-**Edición y supervisión del proyecto**: Julieta Lamberti.
-**Autor(a)**: Ricardo Balderas.
-**Desarrolladores tecnológicos**: Marisol Carrillo.
-**Visualización de datos**: Ricardo Balderas.
-**En alianza con**: Serendipia (Alejandra Padilla).
-**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda. 
+**Dirección**: Fernanda Hopenhaym y Elena Arengo.  
+**Edición y supervisión del proyecto**: Julieta Lamberti.  
+**Autor(a)**: Ricardo Balderas.  
+**Desarrolladores tecnológicos**: Marisol Carrillo.  
+**Visualización de datos**: Ricardo Balderas.  
+**En alianza con**: Serendipia (Alejandra Padilla).  
+**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda.   
 
-==
 
 
 **Agradecimientos:**
