@@ -26,13 +26,13 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 
 **Sobre el equipo**
 
-1.**Dirección**: Fernanda Hopenhaym y Elena Arengo.
-2.**Edición y supervisión del proyecto**: Julieta Lamberti.
-3.**Autor(a)**: Ricardo Balderas.
-4.**Desarrolladores tecnológicos**: Marisol Carrillo.
-5.**Visualización de datos**: Ricardo Balderas.
-6.**En alianza con**: Serendipia (Alejandra Padilla).
-7.**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda. 
++**Dirección**: Fernanda Hopenhaym y Elena Arengo.
++**Edición y supervisión del proyecto**: Julieta Lamberti.
++**Autor(a)**: Ricardo Balderas.
++**Desarrolladores tecnológicos**: Marisol Carrillo.
++**Visualización de datos**: Ricardo Balderas.
++**En alianza con**: Serendipia (Alejandra Padilla).
++**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda. 
 
 
 
