@@ -4,7 +4,7 @@ title: Sobre el proyecto
 permalink: /sobre-el-proyecto/
 ---
 
-# Sobre el proyecto
+# Sobre el proyecto #
 
 La sonaja de la vida es parte de un proyecto que se actualiza cada año. Gracias al análisis de la base de datos de compras públicas (Compranet) y que tiene como objetivo describir parte de la situación que enmarca el acceso al tratamiento para personas que tuvieron contacto con el Virus de Inmunodeficiencia Humana (VIH). O de quienes así lo requieran. 
 
@@ -22,7 +22,9 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 7.-Solicitudes de acceso a la información.
 8.-Entrevistas a especialistas, activistas y funcionarios públicos.
  ~~~
-**Sobre el equipo**
+
+##**Sobre el equipo**##
+
 -**Dirección**: Fernanda Hopenhaym y Elena Arengo 
 -**Edición y supervisión del proyecto**: Julieta Lamberti 
 -**Autor(a)**: Ricardo Balderas.
@@ -32,6 +34,6 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 -**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda. 
 
 
-**Agradecimientos:** 
+### **Agradecimientos:** ###
 
 A Juan Jacobo Hernández por su honesta generosidad. A todo el equipo de PODER por su compromiso y solidaridad con la diversidad y a [Nostrxs](https://www.nosotrxs.org/) por su disposición al trabajo colectivo y política de datos abiertos. A Enrique Rayas, Juan Regalado, Horacio Franco, Manuel Arellano, Frida Romay, Alejandro Brito, Juan Carlos Yustis y a todas las personas que, valientemente, nos permiten tocar a otros con sus voces. A las personas que tuvieron que sobrevivir en anonimato. 
