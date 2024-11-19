@@ -25,17 +25,17 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 
 ##**Sobre el equipo**##
 
-1.-**Dirección**: Fernanda Hopenhaym y Elena Arengo 
-2.-**Edición y supervisión del proyecto**: Julieta Lamberti 
+1.-**Dirección**: Fernanda Hopenhaym y Elena Arengo.
+2.-**Edición y supervisión del proyecto**: Julieta Lamberti.
 3.-**Autor(a)**: Ricardo Balderas.
 4.-**Desarrolladores tecnológicos**: Marisol Carrillo. 
 5.-**Visualización de datos**: Ricardo Balderas.
-6.-**En alianza con**: Serendipia (Alejandra Padilla)
+6.-**En alianza con**: Serendipia (Alejandra Padilla).
 7.-**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda. 
 
  ~~~
 ### **Agradecimientos:** ###
 
-A Juan Jacobo Hernández por su honesta generosidad. A todo el equipo de PODER por su compromiso y solidaridad con la diversidad y a [Nostrxs](https://www.nosotrxs.org/) por su disposición al trabajo colectivo y política de datos abiertos. A Enrique Rayas, Juan Regalado, Horacio Franco, Manuel Arellano, Frida Romay, Alejandro Brito, Juan Carlos Yustis y a todas las personas que, valientemente, nos permiten tocar a otros con sus voces. A las personas que tuvieron que sobrevivir en anonimato. 
+_A Juan Jacobo Hernández por su honesta generosidad. A todo el equipo de PODER por su compromiso y solidaridad con la diversidad y a [Nostrxs](https://www.nosotrxs.org/) por su disposición al trabajo colectivo y política de datos abiertos. A Enrique Rayas, Juan Regalado, Horacio Franco, Manuel Arellano, Frida Romay, Alejandro Brito, Juan Carlos Yustis y a todas las personas que, valientemente, nos permiten tocar a otros con sus voces. A las personas que tuvieron que sobrevivir en anonimato._ 
 
  ~~~
