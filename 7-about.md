@@ -34,8 +34,7 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 7.-**Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda. 
 
  ~~~
-### **Agradecimientos:** ###
+**Agradecimientos:**
 
 _A Juan Jacobo Hernández por su honesta generosidad. A todo el equipo de PODER por su compromiso y solidaridad con la diversidad y a [Nostrxs](https://www.nosotrxs.org/) por su disposición al trabajo colectivo y política de datos abiertos. A Enrique Rayas, Juan Regalado, Horacio Franco, Manuel Arellano, Frida Romay, Alejandro Brito, Juan Carlos Yustis y a todas las personas que, valientemente, nos permiten tocar a otros con sus voces. A las personas que tuvieron que sobrevivir en anonimato._ 
-
  ~~~
