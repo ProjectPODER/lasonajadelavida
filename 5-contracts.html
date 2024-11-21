@@ -15,22 +15,15 @@ permalink: /buscador/
                         <input type="text" class="form-control" id="search-text" placeholder="{{site.search_placeholder}}">
                     </div>
                     <div class="row contract-filter">
-                        <div class="col-lg-3">
+                        <div class="col-lg-4">
                             <div class="form-group filter-box filter-amount">
                                 <label class="filter-title">{{site.amount_title}}</i></label>
                                 <input type="text" id="search-fromAmount" name="fromAmount" class="filter-input half-input filter-input-from form-control" placeholder="{{site.amount_from_placeholder}}">
                                 <input type="text" id="search-toAmount" name="toAmount" class="filter-input half-input filter-input-to form-control" placeholder="{{site.amount_to_placeholder}}">
                             </div>
                         </div>
-                        <div class="col-lg-3">
-                            <div class="form-group filter-box filter-contract-type">
-                                <label class="filter-title">{{site.type_contract_title}}<img src="{{ site.baseurl }}/assets/img/info-circle-solid.svg" alt="icon" class="info-icon" data-toggle="tooltip" data-placement="bottom" title="{{site.type_contract_title_tooltip}}"></label>
-                                <select id="search-contractType" name="contractType" class="form-control" id="" class="filter-input">
-                                    <option value="todos">-{{site.type_contract_all_option}}-</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="col-lg-3">
+
+                        <div class="col-lg-4">
                             <div class="form-group filter-box filter-procedure-type">
                                 <label class="filter-title">{{site.type_procedure_title}}<img src="{{ site.baseurl }}/assets/img/info-circle-solid.svg" alt="icon" class="info-icon" data-toggle="tooltip" data-placement="bottom" title="{{site.type_procedure_title_tooltip}}"></label>
                                 <select id="search-procedureType" name="procedureType" class="form-control" id="" class="filter-input">
@@ -38,7 +31,7 @@ permalink: /buscador/
                                 </select>
                             </div>
                         </div>
-                        <div class="col-lg-3">
+                        <div class="col-lg-4">
                             <div class="form-group filter-box filter-date">
                                 <div>
                                     <label class="filter-title">{{site.date_range_title}}<img src="{{ site.baseurl }}/assets/img/info-circle-solid.svg" alt="icon" class="info-icon" data-toggle="tooltip" data-placement="bottom" title="{{site.date_range_title_tooltip}}"></label>
