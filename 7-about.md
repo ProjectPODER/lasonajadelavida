@@ -36,6 +36,7 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 - **Visualización de datos**: Ricardo Balderas.
 - **En alianza con**: Serendipia (Alejandra Padilla).
 - **Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda.
+- **Revelado digital**: Efraín Fonseca.
 
 
 
