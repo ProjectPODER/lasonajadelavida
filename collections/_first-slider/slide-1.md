@@ -1,8 +1,8 @@
 ---
 title: First Slide
-image: graphic-example3.png
+image: MARCHA_01_FOTO.jpg
 ---
 
-# THIS IS THE THIRD SLIDE
+# _29 de junio de 1979_
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Ocurre la primer marcha del orgullo gay en México. Encabezada por grupo Lambda, la manifestación ocurrió a las 16:20 horas del centro del país. Un grupo conformado sólo por 50 personas caminaron del monumento a los Niños Héroes hasta llegar al Hemiciclo a Juárez, dicha protesta tuvo una duración de tres horas aproximadamente, concluyendo a las 18:15 horas. Según los propios documentos revelados por PODER, el motivo del espionaje a dicho evento fue la adhesión a las protestas del Partido Revolucionario del Trabajo (PRT). 
