@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-iframe: MARCHA_02.jpg
+image: MARCHA_02.jpg
 ---
 
 # _28 de mayo de 1980_
