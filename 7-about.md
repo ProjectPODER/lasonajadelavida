@@ -33,7 +33,7 @@ Este esfuerzo busca conectar el pasado con el presente. Narrando las complicacio
 - **Edición y supervisión del proyecto**: Julieta Lamberti.
 - **Autor(a)**: Ricardo Balderas.
 - **Desarrolladores tecnológicos**: Marisol Carrillo.
-- **Visualización de datos**: Ricardo Balderas.
+- **Visualización y análisis de datos**: Ricardo Balderas.
 - **En alianza con**: Serendipia (Alejandra Padilla).
 - **Asesoría de seguridad**: Marisol Carrillo y Óscar Pineda.
 - **Revelado digital**: Efraín Fonseca.
