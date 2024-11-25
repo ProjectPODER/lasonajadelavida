@@ -1,6 +1,6 @@
 ---
 title: Slide 5
-image: photo_2024-11-17_23-54-32.jpg
+image: foto_marcada.jpg
 ---
 
 # _30 de junio de 1984_
