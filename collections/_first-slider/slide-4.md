@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: MARCHA_05_FOTO.jpg
+image: MARCHA_04.jpg
 ---
 
 # _28 julio de 1982_
