@@ -1,8 +1,8 @@
 ---
 title: Slide 2
-iframe: https://flo.uri.sh/visualisation/19479656/embed
+iframe: MARCHA_02.jpg
 ---
 
-# THIS IS THE SECOND SLIDE WITH AN IFRAME
+# _28 de mayo de 1980_
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+La Dirección Federal de Seguridad (DFS) un grupo armado del Estado conformado por agentes paramilitares y que trabajaron como espías para el régimen del PRI, comenzaron a recabar información en expedientes de papel sobre movimientos, agrupaciones, centros de estudio o colectivos relacionados a la comunidad de la diversidad sexual. 
