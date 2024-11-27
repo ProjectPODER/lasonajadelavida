@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Los espías que guardaron al SIDA en un cajón
-permalink: /Los-espías-que-guardaron-al-SIDA-en-un-cajón/
+permalink: /Los-espias-que-guardaron-al-SIDA-en-un-cajón/
 ---
 
 # Los espías que guardaron al SIDA en un cajón
