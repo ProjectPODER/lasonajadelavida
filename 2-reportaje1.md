@@ -17,7 +17,9 @@ Es el verano de 1980, mes de mayo en el centro de México. Son las 16:00 horas c
 	A la cita acudieron integrantes del Partido Obrero Socialista (POS), Partido Comunista Mexicano (PMC), Grupo de lesbianas Oikabeth, Grupo Lambda y el Frente Homosexual de Acción Revolucionaria (FHAR en su capitulo México). 
 	Los nombres de los asistentes son caprichosamente colocados en una ficha de papel foliado con la insignia: DFS. Juan Jacobo Hernández, encabezando la reunión; Mario Hernández Rivas, del PCM; Rodrigo Hernández de Lambda y María de los Ángeles Márquez de Oikabeth. Se trata de información perteneciente a un expediente de la policía secreta y paramilitar que operó en México durante los años 1950 y 1980, el Periodo de la Represión1.
 
- [Imagen: Documento con listas de asistentes]
+
+![Imagen: Lista de la DFS con los asistentes a la reunión para programar la segunda marcha LGBT* en México](/img/tutorial/imagen-markdown.webp)
+
  
 
 El motivo real del expediente, narran los paramilitares al servicio del Partido Revolucionario Institucional (PRI), era el de investigar la adhesión del Partido Comunista Mexicano y del Partido Revolucionario de los Trabajadores (PRT) a los contingentes que exigían igualdad de derechos para las personas de la diversidad.  Hasta ese año, los policías de la DFS no mostraban interés en los grupos de homosexuales y lesbianas, ni investigaron al colectivo LGBTTTIQ+. Salvo por las actividades de algunos individuos (quienes ya eran investigados en lo individual), a la policía secreta no le parecía que el movimiento por los derechos de la diversidad pudiera convertirse en una amenaza para el gobierno. De hecho, hasta este momento no había un antecedente de investigación colectiva.
