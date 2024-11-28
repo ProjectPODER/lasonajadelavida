@@ -39,6 +39,30 @@ Sobre las compras públicas de antirretrovirales, PODER analizó todo el sistema
 
 [FOTO: TRES ACTAS CONSTITUTIVAS]
 
+<div id="carouselControls2" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Documento-56.pdf" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Documento-57.pdf" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Documento-58.pdf" alt="Third slide">
+    </div>
+  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
+
+*Créditos: Archivo General de la Nacion, Ricardo Balderas.*
+
 Sobre la cuarta empresa, se trata de  Tecnología Médica Interamericana, una empresa originaria de Ciudad de México, cuyo objeto social es la compra venta y distribución de tecnología y equipo médico fundada en el año 2000. Esta empresa, según la plataforma quienesquien.wiki (QQW) ha recibido del presupuesto 95,214,891.75, la mitad de ellos por adjudicación directa. 
 	Finalmente, sobre la empresa en quinto lugar, sabemos que es originaria de Naucalpan de Juárez y fue fundada en 1984 bajo el objeto social de fabricación y compra venta de productos de latex. Según lo reporta PODER en la plataforma QQW, la empresa ha no habría recibido contratos de gobierno anteriormente. 
 
