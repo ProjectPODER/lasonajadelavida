@@ -54,7 +54,7 @@ Al respecto, Frida Romay, explica un poco sobre la compleja estructura de seguim
 
 Sobre las compras públicas de antirretrovirales, PODER analizó todo el sistema de contrataciones  públicas (Compranet) correspondientes a los años donde #CeroDesabasto tuvo sus mayores números de reportes (2023 y 2024). Sin embargo, debido a la reciente solicitud para desaparecer organismos autónomos, incluido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), el contenido de dichos contratos no está ya disponible, por lo que resulta imposible determinar la cantidad de suministros y tratamientos correspondientes a las compras reflejadas en los contratos1.
 
-[Foto: frida]
+![Foto: Horacio Franco. Crédito: Cortesía.](/img/01_FRIDA_ROMAY.jpg)
 
 De enero de 2023 a noviembre de 2024, las autoridades mexicanas en materia de salud erogaron un total de 1,127,063,210.59 (un mil ciento veintisiete millones sesenta y tres mil docientos diez ) pesos mexicanos en la compra de suministros y tratamientos para personas que viven con VIH. En total, se emitieron 86 órdenes de compra (adquisiciones) que en su mayoría, 62 de los casos, ocurrió sin concurso de por medio y sin competencia, es decir por adjudicación directa. 
 
@@ -108,7 +108,8 @@ En junio de 2021, diversas instituciones, como la AIDS Healthcare Foundation (AH
 
 En lo que respecta específicamente al tratamiento antirretroviral, la AHF prevé una ola de escasez que pondrá en riesgo la salud de las personas que viven con VIH. “Yo veo una verdadera preocupación porque va a llegar junio y vamos a tener un desabasto muy grande (...) Una falta de previsión de este tamaño sí es grave”, argumenta Patricia Campos de AHF en América Latina y el Caribe, con sede en México, en entrevista con PODER1.
 
-[FOTO HORACIO]
+
+![Foto: Horacio Franco. Crédito: Ricardo Balderas.](/img/Horacio Franco.jpg)
 
 El activismo o la organización popular ha sido, indiscutiblemente, una de las herramientas más importantes para poder comenzar con el diálogo entre autoridades y ciudadanas. “Yo el activismo lo respeto mucho. Lo ejerzo desde que llegué a Holanda con 17 años, cuando Europa todavía era un lugar democrático. Para mi el activismo comienza con uno mismo”, explica Horacio Franco, amigo del activista Juan Jacobo y del escritor Carlos Monsivaís quien pasó gran parte de su vida ayudando a la población de la diversidad sexual.
 
