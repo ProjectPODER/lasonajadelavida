@@ -87,7 +87,7 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
 </div>
 <br>
 
-*Créditos: Ricardo Balderas.*
+**Créditos: Ricardo Balderas**
 
 
 
