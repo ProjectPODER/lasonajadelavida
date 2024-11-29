@@ -38,6 +38,7 @@ Cuando todo cambió, ya era tarde para dar pasos atrás. Los expedientes del Mé
 
 
 **El travesti que hizo frente contra el Negro Durazo**
+
 Según los documentos policíacos, Juan Jacobo Hernández participó en el Frente Homosexual de Acción Revolucionaria desde 1979, es decir, justo el año que ocurrió la primer marcha por la diversidad en Ciudad de México (aunque su participación real fue anterior a esa fecha). El Grupo FHAR México fue el primer colectivo en el país abiertamente homosexual, en una manifestación o en el espacio público2. 
 
 El FHAR y Grupo Lambda encabezaron la primera marcha del orgullo, en aquel entonces, luchando por la visibilidad y los derechos de la comunidad de la diversidad sexual3. La historia, según quienes la vivieron, se cuenta de la siguiente manera: En 1971, debido a la violencia de Estado, se configuró en México la primera asociación a favor de los derechos de las personas LGBT+, el cual llevó por nombre Frente de Liberación Homosexual de México (FLH). Este grupo fue la reacción de un grupo se homosexuales tras un acto de discriminación en contra de un hombre despedido por una tienda departamental en la Ciudad de México al creer que era homosexual; entre los participantes se encontraban el escritor Carlos Monsiváis y la dramaturga Nancy Cárdenas.
@@ -51,8 +52,8 @@ En ese contexto de esperanza y habiendo impulsado la primer marcha por el orgull
 
 —El 8 de mayo de 1980 hicimos una parada enfrente de Tlaxcuaque, ahí donde operaba el Negro Durazo en plena matanza de narcotraficantes colombianos que los policías torturaban y mataban para aventarlos al río Tula por órdenes de Durazo. Entonces no nos querían dejar pasar pero dejaron subir a una pequeña comitiva, entramos a la oficina de Durazo y cuando nos vio se burló. Sonriendo le entregamos una carta… Nos atiende y estas locas no se callan. Entonces, fue un enfrentamiento que sí nos dio mucho miedo.
 
-**Entrevista con Juan Jacobo Hernández**
 
+**Entrevista con Juan Jacobo Hernández**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaD-U3vh-0w?si=3XnwZ56w6_3BVAVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
