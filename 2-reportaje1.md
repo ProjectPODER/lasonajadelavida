@@ -61,7 +61,29 @@ Aquella carta aun se encuentra en el expediente policíaco. Misma fecha y mismo 
 
 El primer caso de SIDA llegó a México en 1983. El acontecimiento tuvo lugar en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, al sur de la Ciudad de México. Tan sólo un año después, el interés del gobierno espía del Partido Revolucionario Institucional (PRI), tomó un extraño rumbo pues los policías comenzaron a investigar y registrar las protestas, así como a los grupos de activistas que apoyaron a personas seropositivas. 
 
-[GALERÍA: TÉRMINOS (FLORIPONDIO, SODOMITA, FEMINOIDE)]
+**TÉRMINOS PARA REFERIRSE A LA COMUNIDAD: FLORIPONDIO, SODOMITA, FEMINOIDES**
+
+<div id="carouselControls2" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/FEMINOIDE.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SODOMITA_02.png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/SODOMITA.png" alt="Third slide">
+    </div>
+  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </div>
+  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </div>
+</div>
+<br>
 
 
 **DiverSIDAd y protestas**
@@ -78,6 +100,9 @@ Tan sólo un año después del primer reporte de una persona Seropositiva en Mé
 Según lo reportado, en el expediente de la diversidad en la Dirección Federal de Seguridad (DFS), en ese mismo año (1983),  Rosario Ibarra de Piedra apareció como candidata a la presidencia de México con el apoyo de las agrupaciones de la diversidad sexual. Esto como resultado de los acuerdos con los colectivos de los que habló Arellano. Aquel intercambio de apoyos marcaría el rumbo de la política pública de la diversidad. 
 
 Según Manolo Arellano, para llegar a ocupar un espacio en los medios de comunicación y hacer frente a los prejuicios, en 1990 Arturo Díaz (activista y fundador del suplemento especializado en VIH Letra S) y Francisco Galván, quién ya tenía un diagnóstico de SIDA avanzado, publican el suplemento Sociedad y SIDA en el periódico El Nacional. Al mismo tiempo que aparecen los primeros medios de comunicación especializados, se funda la organización Calamo, primer agrupación que atendía casos de VIH en el país en haber logrado registro ante las autoridades. 
+
+
+
 	
 [FOTOS: GALERÍA DEL EXPEDIENTE]
 [Lea aquí el último ensayo sobre el SIDA de Manolo Arellano]
