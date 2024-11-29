@@ -95,10 +95,11 @@ Finalmente, sobre la empresa en quinto lugar, sabemos que es originaria de Nauca
 
 
 **La lucha por los medicamentos sigue**
- 
-En junio de 2021, diversas instituciones, como AHF México y VIHeLibre señalaron irregularidades en la compra y distribución de medicamentos para el sector público en México y la posibilidad de incumplir con el abasto por la falta de medicamentos directamente en clínicas y hospitales, el subejercicio de recursos públicos y falta de información sobre los ahorros previstos. A pesar que este problema ha sido parcialmente resuelto con adjudicaciones directas e importaciones,  las organizaciones antes mencionadas también observaron una disminución del gasto en salud y una caída en la atención de enfermedades de alta especialidad. 
 
-En lo que respecta específicamente al tratamiento antirretroviral, la AHF prevé una ola de escasez que pondrá en riesgo la salud de las personas que viven con VIH. “Yo veo una verdadera preocupación porque va a llegar junio y vamos a tener un desabasto muy grande (...) Una falta de previsión de este tamaño sí es grave”, argumenta Patricia Campos de la AIDS Healthcare Fundation (AHF) en América Latina y el Caribe, con sede en México en entrevista con PODER4.  
+ 
+En junio de 2021, diversas instituciones, como AHF México y VIHeLibre señalaron irregularidades en la compra y distribución de medicamentos para el sector público en México y la posibilidad de incumplir con el abasto por la falta de medicamentos directamente en clínicas y hospitales, el subejercicio de recursos públicos y falta de información sobre los ahorros previstos. A pesar que este problema ha sido parcialmente resuelto con adjudicaciones directas e importaciones,  las organizaciones antes mencionadas también observaron una disminución del gasto en salud y una caída en la atención de enfermedades de alta especialidad.
+
+En lo que respecta específicamente al tratamiento antirretroviral, la AHF prevé una ola de escasez que pondrá en riesgo la salud de las personas que viven con VIH. “Yo veo una verdadera preocupación porque va a llegar junio y vamos a tener un desabasto muy grande (...) Una falta de previsión de este tamaño sí es grave”, argumenta Patricia Campos de la AIDS Healthcare Fundation (AHF) en América Latina y el Caribe, con sede en México en entrevista con PODER4.
 
 El activismo o la organización popular han sido, indiscutiblemente, una de las herramientas más importantes para poder comenzar con el diálogo entre autoridades y ciudadanas. “Yo el activismo lo respeto mucho. Lo ejerzo desde que llegué a Holanda con 17 años, cuando Europa todavía era un lugar democrático. Para mi el activismo comienza con uno mismo”, explica Horacio Franco, amigo del activista Juan Jacobo y del escritor Carlos Monsivaís quien pasó gran parte de su vida ayudando a la población de la diversidad sexual.
 
@@ -106,18 +107,20 @@ El activismo o la organización popular han sido, indiscutiblemente, una de las 
 
 
 ~~~
-—Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista. 
+—Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista.
 Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
 
 —¿Qué le dirías a las personas que opinan que la marcha del orgullo no les representa.
 
-—Mira, todavía pasa. Cuando que cuando la gente migramos a la Ciudad de México por diferentes temas y casi 50 años después de todo, el desconocimiento de nuestra historia y nuestra lucha, es real. 
+—Mira, todavía pasa. Cuando que cuando la gente migramos a la Ciudad de México por diferentes temas y casi 50 años después de todo, el desconocimiento de nuestra historia y nuestra lucha, es real.
 ~~~
 
-Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación.     
+Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación.
+
 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20365809"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20365809/thumbnail" width="100%" alt="map visualization" /></noscript></div>
+
 
 
 
