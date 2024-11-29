@@ -22,7 +22,7 @@ A la cita acudieron integrantes del Partido Obrero Socialista (POS), Partido Com
 Los nombres de los asistentes son caprichosamente colocados en una ficha de papel foliado con la insignia: DFS. Juan Jacobo Hernández, encabezando la reunión; Mario Hernández Rivas, del PCM; Rodrigo Hernández de Lambda y María de los Ángeles Márquez de Oikabeth. Se trata de información perteneciente a un expediente de la policía secreta y paramilitar que operó en México durante los años 1950 y 1980, el Periodo de la Represión1.
 
 
-![Imagen: Lista de la DFS con los asistentes a la reunión para programar la segunda marcha LGBT* en México](/img/tutorial/imagen-markdown.webp)
+![Lista de la DFS con los asistentes a la reunión para programar la segunda marcha LGBTTTIQ+ en México](/img/MARCHA_02.jpg)
 
  
 
@@ -86,6 +86,7 @@ El primer caso de SIDA llegó a México en 1983. El acontecimiento tuvo lugar en
 <br>
 
 
+
 **DiverSIDAd y protestas**
 El primer caso de SIDA en México se registró en 1983 en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán4. A partir de ese momento, la vida de cientos de personas cambiaría para siempre. En este punto, explica Manolo Arellano, trabajador de Clínica Condesa, periodista y ex militante de los movimientos homosexuales de los años 80, la comunidad se dividió.
 
@@ -95,7 +96,7 @@ Sobre el SIDA, comenta Arellano “Ese nos lo trajeron de Estados Unidos, o fuim
 
 Tan sólo un año después del primer reporte de una persona Seropositiva en México de 1983, en el contexto del día internacional del Orgullo homosexual celebrado en Ciudad de México (CDMX), aparecieron también las primeras consignas que acompañarían a la causa por la diversidad y que fueron reportadas con las autoridades de la policía federal o DFS.
 
-![Imagen: Primer registro de la pabra SIDA en los expedientes de la DFS](/img/tutorial/foto_marcada.jpg)
+![Primer registro de la pabra SIDA en los expedientes de la DFS](/img/foto_marcada.jpg)
 
 Según lo reportado, en el expediente de la diversidad en la Dirección Federal de Seguridad (DFS), en ese mismo año (1983),  Rosario Ibarra de Piedra apareció como candidata a la presidencia de México con el apoyo de las agrupaciones de la diversidad sexual. Esto como resultado de los acuerdos con los colectivos de los que habló Arellano. Aquel intercambio de apoyos marcaría el rumbo de la política pública de la diversidad. 
 
