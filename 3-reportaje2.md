@@ -68,13 +68,13 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
 <div id="carouselControls2" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Documento-56.pdf" alt="First slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/tecnología medica.png" alt="First slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Documento-57.pdf" alt="Second slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/trenkes.png" alt="Second slide">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/Documento-58.pdf" alt="Third slide">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/equiver.png" alt="Third slide">
     </div>
   <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -107,6 +107,7 @@ El activismo o la organización popular han sido, indiscutiblemente, una de las 
 
 Él, al igual que Josué, usa el arte para ejercer su derecho a la crítica, el activismo. Su motivo es el de haber crecido en un mundo donde salir del clóset era un acto casi suicida. Porque el área donde él se desenvuelve (la música clásica) sigue dando discusiones importantes.
 
+
 ~~~
 
 —Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista. Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
@@ -117,10 +118,19 @@ El activismo o la organización popular han sido, indiscutiblemente, una de las 
 
 ~~~
 
-Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación. 
+Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación.     
+
+
+
+
+
 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20365809"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20365809/thumbnail" width="100%" alt="map visualization" /></noscript></div>
+
+
+
+
 
 **Nota metodológica:**
 _El periodo de contratos analizado en este trabajo corresponde a los años 2023 y 2024 (El acceso al código de webcrapping y bb.dd de los contratos los puedes descargar aquí). Debido a la transición de plataformas de acceso a la información impulsada por el gobierno federal, algunos contratos o sus versiones públicas no se pueden consultar debido a que las autoridades no han concluido la migración de documentos. En este trabajo también hace uso de información obtenida mecanismos de acceso a la información y datos personales._
