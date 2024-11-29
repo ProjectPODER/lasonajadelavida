@@ -9,7 +9,7 @@ permalink: /Los-espias-que-guardaron-al-SIDA-en-un-cajón/
 Las lesbianas y homosexuales organizados en grupos tomarán las calles para manifestar con orgullo su condición sexual y levantarán sus voces en contra de la situación de opresión, discriminación y represión de que son objetos en las razzias… 
 Dirección Federal de Seguridad (1980), departamento de Investigaciones Políticas y Sociales.
 
-Ricardo Balderas
+_Ricardo Balderas_
 
 Es el verano de 1980, mes de mayo en el centro de México. Son las 16:00 horas cuando un pequeño grupo de 40 homosexuales, lesbianas y travestis se dan cita en un recibidor de la Plaza Tlaxcoaque sobre la avenida del mismo nombre. Los asistentes son en su mayoría varones jóvenes homosexuales. 
 
@@ -52,6 +52,7 @@ En ese contexto de esperanza y habiendo impulsado la primer marcha por el orgull
 —El 8 de mayo de 1980 hicimos una parada enfrente de Tlaxcuaque, ahí donde operaba el Negro Durazo en plena matanza de narcotraficantes colombianos que los policías torturaban y mataban para aventarlos al río Tula por órdenes de Durazo. Entonces no nos querían dejar pasar pero dejaron subir a una pequeña comitiva, entramos a la oficina de Durazo y cuando nos vio se burló. Sonriendo le entregamos una carta… Nos atiende y estas locas no se callan. Entonces, fue un enfrentamiento que sí nos dio mucho miedo.
 
 **Entrevista con Juan Jacobo Hernández**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaD-U3vh-0w?si=3XnwZ56w6_3BVAVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -62,7 +63,7 @@ El primer caso de SIDA llegó a México en 1983. El acontecimiento tuvo lugar en
 [GALERÍA: TÉRMINOS (FLORIPONDIO, SODOMITA, FEMINOIDE)]
 
 
-DiverSIDAd y protestas
+**DiverSIDAd y protestas**
 El primer caso de SIDA en México se registró en 1983 en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán4. A partir de ese momento, la vida de cientos de personas cambiaría para siempre. En este punto, explica Manolo Arellano, trabajador de Clínica Condesa, periodista y ex militante de los movimientos homosexuales de los años 80, la comunidad se dividió.
 
 Según lo narra Manolo Arellano, el FHAR tenía una visión y posturas más radicales que el resto de grupos (Lambda y Horus). Mientras Grupo Lambda intentaba hacer activismo con un corte más político como el ingresar cuotas pr acción afirmativa; FHAR se negó a negociar con los partidos motivo por el cual, integrantes de diferentes agrupaciones de homosexuales y lesbianas se sumaron a las filas del PRT. Esos esfuerzos dieron como resultado a los primeros candidatos y candidatas como Claudia Hinojosa Max Mejía quien decide afiliarse a los movimientos feministas. Este mismo año, como consecuencia de dicha separación, el FHAR cierra de manera oficial como agrupación y se transforma en Grupo Sol, ya dirigido solamente por Juan Jacobo Hernández.
@@ -71,7 +72,7 @@ Sobre el SIDA, comenta Arellano “Ese nos lo trajeron de Estados Unidos, o fuim
 
 Tan sólo un año después del primer reporte de una persona Seropositiva en México de 1983, en el contexto del día internacional del Orgullo homosexual celebrado en Ciudad de México (CDMX), aparecieron también las primeras consignas que acompañarían a la causa por la diversidad y que fueron reportadas con las autoridades de la policía federal o DFS.
 
-[Aquí foto donde se habla por primera vez del SIDA en la DFS]
+![Imagen: Primer registro de la pabra SIDA en los expedientes de la DFS](/img/tutorial/foto_marcada.jpg)
 
 Según lo reportado, en el expediente de la diversidad en la Dirección Federal de Seguridad (DFS), en ese mismo año (1983),  Rosario Ibarra de Piedra apareció como candidata a la presidencia de México con el apoyo de las agrupaciones de la diversidad sexual. Esto como resultado de los acuerdos con los colectivos de los que habló Arellano. Aquel intercambio de apoyos marcaría el rumbo de la política pública de la diversidad. 
 
