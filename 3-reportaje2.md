@@ -52,6 +52,8 @@ La empresa Equiver S.A. de C.V., originaria de Veracruz, también aparece en el 
 
 Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría de Economía como una gestora de patentes médicas. Por lo que no se trata de una empresa productora de medicamentos, sino una revendedora.
 
+
+
 [FOTO: TRES ACTAS CONSTITUTIVAS]
 
 <div id="carouselControls2" class="carousel slide" data-ride="carousel">
@@ -76,7 +78,10 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
 </div>
 <br>
 
-*Créditos: Archivo General de la Nacion, Ricardo Balderas.*
+*Créditos: Ricardo Balderas.*
+
+
+
 
 Sobre la cuarta empresa, se trata de  Tecnología Médica Interamericana, una empresa originaria de Ciudad de México, cuyo objeto social es la compra venta y distribución de tecnología y equipo médico fundada en el año 2000. Esta empresa, según la plataforma quienesquien.wiki (QQW) ha recibido del presupuesto 95,214,891.75, la mitad de ellos por adjudicación directa. 
 
@@ -101,6 +106,8 @@ Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que
 —Mira, todavía pasa. Cuando que cuando la gente migramos a la Ciudad de México por diferentes temas y casi 50 años después de todo, el desconocimiento de nuestra historia y nuestra lucha, es real. 
 
 Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación. 
+
+
 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20365809"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20365809/thumbnail" width="100%" alt="map visualization" /></noscript></div>
