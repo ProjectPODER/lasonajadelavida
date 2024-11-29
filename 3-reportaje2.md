@@ -16,6 +16,7 @@ Comenzó a trabajar con obras de teatro que abiertamente discuten la realidad de
 
 Rápidamente habla de la fecha de su diagnóstico y cuenta que conoció a su pareja justo un año después del primer caso de VIH en México, 1984. Comenta que fue su pareja quien le solicitó acudir al médico para una revisión de rutina donde se enteró que era seropositivo.
 
+~~~
 
 —Cuando llegué jarocho recién desempacado, estamos hablando de 1979, aquello me confundió. Pensé que estaba frente a alguna especie de carnaval de la Ciudad de México. Vi a hombres vestidos de mujer por las calles, algunos con bigote. Me llamó la atención que en sus cartulinas decía alto a las razzias  y pensé que se habían equivocada y querían decir Mafias. Desafortunadamente, después entendí a qué se referían.
 
@@ -23,20 +24,28 @@ Rápidamente habla de la fecha de su diagnóstico y cuenta que conoció a su par
 
 —Cuando me dieron el resultado, sentí como cuando sales de un concierto. No sé si le pagué la consulta o cómo regresé a casa. Sólo recuerdo cuando el médico me dice: “tienes el bicho”. Finalmente  mi esposo me dice que si yo lo tengo él también, salió positivo en aquel tiempo.
 
+~~~
+
 A partir de ese momento, Josué cuenta que salía con su pareja todos los fines de semana a buscar una receta mágica que pudiera curar la enfermedad. Y está convencido de que algo, algo entre todos esos esfuerzos de fines de semana, funcionó. Pues el medicamento para tratar el virus llegó en un momento donde casi pierde la vida. 
 
 Su pareja explica no quería morir de SIDA. Afortunadamente no fue así, lograron hacer frente al virus y su compañero falleció de un cáncer fulminante. Debido a ello, decidió dedicar su vida a ayudar con información y arte a que las personas más jóvenes tengan acceso al tratamiento antirretroviral.
 
+~~~
+
 —Yo aquí sigo y sigo bien, entonces algo de todo eso funcionó. Y le agradezco al doctor haberme echo esa prueba, yo no hubiera tenido el valor. La serofobia no existe, a lo que le tenemos miedo, es a la muerte. 
 
+~~~
 
 **El desabasto es real**
 Desde 2019, la organización de la sociedad civil Nosotrxs ha reportado falta de medicamentos en todo el país. Según se refleja en su sitio web #CeroDesabasto, hasta la fecha, existe un total de 32 mil reportes por falta de medicamentos, de los cuales 607 corresponden a casos donde faltan medicamentos relacionados con el VIH, siendo Ciudad de México, Jalisco, Estado de México y Chihuahua, las entidades donde más frecuentemente escasea el medicamento. En México, 370 mil personas en México viven con VIH, 80 por ciento son hombres adultos de 15 años o más, 19 por ciento son mujeres adultas y uno por ciento menores de 15 años. De ese total, el 85 por ciento se encuentra en tratamiento antirretroviral1.
 
 Al respecto, Frida Romay, actual coordinadora del colectivo CeroDesabasto, explica un poco sobre la compleja estructura de seguimiento de medicamentos en México. Lo más relevante para ellos, es la posibilidad de mapear el desabasto, agrega que los medicamentos más denunciados son frecuentemente los antirretrovirales.
 
+~~~
 
 —A inicios de 2023 y 2024 tuvimos un pico muy importante en los reportes de desabasto. Pero esto ocurrió porque nos ayudaron desde aplicaciones para citas donde la empresa difundió una encuesta en su plataforma. Ellos nos ayudaron mucho a llegar a donde antes no llegábamos. Esto es sólo la punta del iceberg, en realidad hay miles de recetas no surtidas. 
+
+~~~
 
 Sobre las compras públicas de antirretrovirales, PODER analizó todo el sistema de contrataciones  públicas (Compranet) correspondientes a los años donde CeroDesabasto tuvo sus mayores números de reportes (2023 y 2024). Sin embargo, debido a la reciente solicitud para desaparecer organismos autónomos, incluidos el Instituto Nacional de Acceso a la Información (INAI), el contenido de dichos contratos no está ya disponible por lo que resulta imposible determinar la cantidad de suministros y tratamientos correspondientes a las compras reflejadas en los contratos2.
 
@@ -98,16 +107,17 @@ El activismo o la organización popular han sido, indiscutiblemente, una de las 
 
 Él, al igual que Josué, usa el arte para ejercer su derecho a la crítica, el activismo. Su motivo es el de haber crecido en un mundo donde salir del clóset era un acto casi suicida. Porque el área donde él se desenvuelve (la música clásica) sigue dando discusiones importantes.
 
+~~~
 
-—Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista.
-Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
+—Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista. Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
 
 —¿Qué le dirías a las personas que opinan que la marcha del orgullo no les representa.
+
 —Mira, todavía pasa. Cuando que cuando la gente migramos a la Ciudad de México por diferentes temas y casi 50 años después de todo, el desconocimiento de nuestra historia y nuestra lucha, es real. 
 
+~~~
+
 Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación. 
-
-
 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20365809"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20365809/thumbnail" width="100%" alt="map visualization" /></noscript></div>
