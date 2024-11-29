@@ -63,7 +63,7 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
 
 
 
-[FOTO: TRES ACTAS CONSTITUTIVAS]
+**FOTO: ACTAS CONSTITUTIVAS**
 
 <div id="carouselControls2" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
