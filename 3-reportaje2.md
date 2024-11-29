@@ -14,7 +14,7 @@ En un principio no había calificativos. Había solo alegría y miedo. Josué Qu
 
 En ese mismo lugar y fecha (la primer marcha del orgullo homosexual) de cuando llegó a México, conoció a Juan Jacobo Hernández, uno de los fundadores del movimiento de la diversidad, cuenta que aquel día le tomó por el brazo y lo acompañó durante todo el recorrido. Tiempo después supo de quien se trataba y, debido a su influencia, terminó compartiendo intereses en Grupo Lambda.
 
-Comenzó a trabajar con obras de teatro que abiertamente discuten la realidad de vivir con VIH hasta 1996, después y gracias a su diagnóstico. Josué entiende rápidamente la referencia a los antirretrovirales en el nombre de esta investigación, La sonaja de la vida, y agrega: “Ya sé por dónde vas”. 
+Comenzó a trabajar con obras de teatro que abiertamente discuten la realidad de vivir con VIH hasta 1996, después y gracias a su diagnóstico. Josué entiende rápidamente la referencia a los antirretrovirales en el nombre de esta investigación, La sonaja de la vida, y agrega: “Ya sé por dónde vas”.
 
 Rápidamente habla de la fecha de su diagnóstico y cuenta que conoció a su pareja justo un año después del primer caso de VIH en México, 1984. Comenta que fue su pareja quien le solicitó acudir al médico para una revisión de rutina donde se enteró que era seropositivo.
 
@@ -22,42 +22,45 @@ Rápidamente habla de la fecha de su diagnóstico y cuenta que conoció a su par
 
 —Cuando llegué jarocho recién desempacado, estamos hablando de 1979, aquello me confundió. Pensé que estaba frente a alguna especie de carnaval de la Ciudad de México. Vi a hombres vestidos de mujer por las calles, algunos con bigote. Me llamó la atención que en sus cartulinas decía alto a las razzias  y pensé que se habían equivocada y querían decir Mafias. Desafortunadamente, después entendí a qué se referían.
 
-—Me dijo, te puedo tomar una muestra de sangre y me toma la muestra y regresen en quince días. Regresé todavía con tos, me realizaron otra prueba y de nuevo esperé otros 15 días. Al final tomaron tres muestras de sangre sin decirme que eran para eso, afortunadamente el médico era muy profesional, estoy seguro que lo hizo para no alarmarme. Aunque el ambiente estaba raro. 
+—Me dijo, te puedo tomar una muestra de sangre y me toma la muestra y regresen en quince días. Regresé todavía con tos, me realizaron otra prueba y de nuevo esperé otros 15 días. Al final tomaron tres muestras de sangre sin decirme que eran para eso, afortunadamente el médico era muy profesional, estoy seguro que lo hizo para no alarmarme. Aunque el ambiente estaba raro.
 
 —Cuando me dieron el resultado, sentí como cuando sales de un concierto. No sé si le pagué la consulta o cómo regresé a casa. Sólo recuerdo cuando el médico me dice: “tienes el bicho”. Finalmente  mi esposo me dice que si yo lo tengo él también, salió positivo en aquel tiempo.
 
 ~~~
 
-A partir de ese momento, Josué cuenta que salía con su pareja todos los fines de semana a buscar una receta mágica que pudiera curar la enfermedad. Y está convencido de que algo, algo entre todos esos esfuerzos de fines de semana, funcionó. Pues el medicamento para tratar el virus llegó en un momento donde casi pierde la vida. 
+A partir de ese momento, Josué cuenta que salía con su pareja todos los fines de semana a buscar una receta mágica que pudiera curar la enfermedad. Y está convencido de que algo, algo entre todos esos esfuerzos de fines de semana, funcionó. Pues el medicamento para tratar el virus llegó en un momento donde casi pierde la vida.
 
 Su pareja explica no quería morir de SIDA. Afortunadamente no fue así, lograron hacer frente al virus y su compañero falleció de un cáncer fulminante. Debido a ello, decidió dedicar su vida a ayudar con información y arte a que las personas más jóvenes tengan acceso al tratamiento antirretroviral.
 
 ~~~
 
-—Yo aquí sigo y sigo bien, entonces algo de todo eso funcionó. Y le agradezco al doctor haberme echo esa prueba, yo no hubiera tenido el valor. La serofobia no existe, a lo que le tenemos miedo, es a la muerte. 
+—Yo aquí sigo y sigo bien, entonces algo de todo eso funcionó. Y le agradezco al doctor haberme echo esa prueba, yo no hubiera tenido el valor. La serofobia no existe, a lo que le tenemos miedo, es a la muerte.
 
 ~~~
 
-**El desabasto es real**
+<br>
+
+## El desabasto es real
+
 Desde 2019, la organización de la sociedad civil Nosotrxs ha reportado falta de medicamentos en todo el país. Según se refleja en su sitio web #CeroDesabasto, hasta la fecha, existe un total de 32 mil reportes por falta de medicamentos, de los cuales 607 corresponden a casos donde faltan medicamentos relacionados con el VIH, siendo Ciudad de México, Jalisco, Estado de México y Chihuahua, las entidades donde más frecuentemente escasea el medicamento. En México, 370 mil personas en México viven con VIH, 80 por ciento son hombres adultos de 15 años o más, 19 por ciento son mujeres adultas y uno por ciento menores de 15 años. De ese total, el 85 por ciento se encuentra en tratamiento antirretroviral1.
 
 Al respecto, Frida Romay, actual coordinadora del colectivo CeroDesabasto, explica un poco sobre la compleja estructura de seguimiento de medicamentos en México. Lo más relevante para ellos, es la posibilidad de mapear el desabasto, agrega que los medicamentos más denunciados son frecuentemente los antirretrovirales.
 
 ~~~
 
-—A inicios de 2023 y 2024 tuvimos un pico muy importante en los reportes de desabasto. Pero esto ocurrió porque nos ayudaron desde aplicaciones para citas donde la empresa difundió una encuesta en su plataforma. Ellos nos ayudaron mucho a llegar a donde antes no llegábamos. Esto es sólo la punta del iceberg, en realidad hay miles de recetas no surtidas. 
+—A inicios de 2023 y 2024 tuvimos un pico muy importante en los reportes de desabasto. Pero esto ocurrió porque nos ayudaron desde aplicaciones para citas donde la empresa difundió una encuesta en su plataforma. Ellos nos ayudaron mucho a llegar a donde antes no llegábamos. Esto es sólo la punta del iceberg, en realidad hay miles de recetas no surtidas.
 
 ~~~
 
 Sobre las compras públicas de antirretrovirales, PODER analizó todo el sistema de contrataciones  públicas (Compranet) correspondientes a los años donde CeroDesabasto tuvo sus mayores números de reportes (2023 y 2024). Sin embargo, debido a la reciente solicitud para desaparecer organismos autónomos, incluidos el Instituto Nacional de Acceso a la Información (INAI), el contenido de dichos contratos no está ya disponible por lo que resulta imposible determinar la cantidad de suministros y tratamientos correspondientes a las compras reflejadas en los contratos2.
 
-De enero de 2023 a noviembre de 2024, las autoridades mexicanas en materia de salud erogaron un total de 1,127,063,210.59 (Un mil ciento veintisiete millones sesenta y tres mil docientos diez pesos ) pesos mexicanos en la compra de suministros y tratamientos para personas que viven con VIH. En total, se emitieron 86 órdenes de compra (adquisiciones) en su mayoría, es decir en 62 de los casos ocurrió sin concurso de por medio y sin competencia, es decir por adjudicación directa. 
+De enero de 2023 a noviembre de 2024, las autoridades mexicanas en materia de salud erogaron un total de 1,127,063,210.59 (Un mil ciento veintisiete millones sesenta y tres mil docientos diez pesos ) pesos mexicanos en la compra de suministros y tratamientos para personas que viven con VIH. En total, se emitieron 86 órdenes de compra (adquisiciones) en su mayoría, es decir en 62 de los casos ocurrió sin concurso de por medio y sin competencia, es decir por adjudicación directa.
 
 Dicho análisis se realizó haciendo uso de tecnología web crapping en dónde se estandarizaron todas las adquisiciones del país durante 2023 y 204, tomando como indicadores de compras como VIH en COMPRANET, número de suministro en el Cuadro Básico de Tratamientos y reporte de compras, así como información de las compras consolidadas y suministros del Consejo Nacional para la Prevención y Control del VIH y el sida (CONASIDA).
 
-Las cinco empresas (o entes públicos que se integran a los procesos de licitación interinstitucional) con los contratos más onerosos de ambos años analizados son: Intermet S.A de C.V. con un contrato por 368586206.9 pesos; el Instituto Nacional de Enfermedades Respiratorias con un contrato de 116744899 pesos; Equiver S.A. de C.V. con 110867942 pesos; Tecnología Médica Interamericana S.A. de C.V. con 94403688 pesos; y Trenkes S.A. de C.V. con 73788901 pesos. 
+Las cinco empresas (o entes públicos que se integran a los procesos de licitación interinstitucional) con los contratos más onerosos de ambos años analizados son: Intermet S.A de C.V. con un contrato por 368586206.9 pesos; el Instituto Nacional de Enfermedades Respiratorias con un contrato de 116744899 pesos; Equiver S.A. de C.V. con 110867942 pesos; Tecnología Médica Interamericana S.A. de C.V. con 94403688 pesos; y Trenkes S.A. de C.V. con 73788901 pesos.
 
-La firma Intermet, es una empresa que data de 1988 con sede en Jalisco, Guanajuato, Colima y Michoacán y Zacatecas. Según el análisis realizado con la herramienta Quienesquien.wiki (QQW) desarrollada por PODER, la firma habría dejado de proveer durante un lapso de tres años al servicio médico. En total, de 2009 a 2017 habría sido beneficiada con compras públicas por la cantidad de 159,950,514.799 pesos mexicanos siendo Durango y Guanajuato las entidades que más recurrieron a sus servicios. 
+La firma Intermet, es una empresa que data de 1988 con sede en Jalisco, Guanajuato, Colima y Michoacán y Zacatecas. Según el análisis realizado con la herramienta Quienesquien.wiki (QQW) desarrollada por PODER, la firma habría dejado de proveer durante un lapso de tres años al servicio médico. En total, de 2009 a 2017 habría sido beneficiada con compras públicas por la cantidad de 159,950,514.799 pesos mexicanos siendo Durango y Guanajuato las entidades que más recurrieron a sus servicios.
 
 La empresa Equiver S.A. de C.V., originaria de Veracruz, también aparece en el sistema de compras públicas como una de las principales beneficiadas por contrataciones públicas en materia de salud para la población seropositiva. La firma cuenta con contratos en el Gobierno Federal desde 2009 sumando un total de 4,218,721.21 pesos, y la mala práctica que se pudo identificar en estos procesos es que todos ellos (los contratos), ocurrieron por adjudicación directa3.
 
@@ -65,7 +68,7 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
 
 
 
-**FOTO: ACTAS CONSTITUTIVAS**
+#### FOTO: ACTAS CONSTITUTIVAS
 
 <div id="carouselControls2" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
@@ -78,25 +81,26 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
     <div class="carousel-item">
       <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/equiver.png" alt="Third slide">
     </div>
-  <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </div>
-  <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
+    <div class="carousel-control-prev" href="#carouselControls2" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </div>
+    <div class="carousel-control-next" href="#carouselControls2" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </div>
   </div>
 </div>
 <br>
 
-Sobre la cuarta empresa, se trata de  Tecnología Médica Interamericana, una empresa originaria de Ciudad de México, cuyo objeto social es la compra venta y distribución de tecnología y equipo médico fundada en el año 2000. Esta empresa, según la plataforma quienesquien.wiki (QQW) ha recibido del presupuesto 95,214,891.75, la mitad de ellos por adjudicación directa. 
+Sobre la cuarta empresa, se trata de  Tecnología Médica Interamericana, una empresa originaria de Ciudad de México, cuyo objeto social es la compra venta y distribución de tecnología y equipo médico fundada en el año 2000. Esta empresa, según la plataforma quienesquien.wiki (QQW) ha recibido del presupuesto 95,214,891.75, la mitad de ellos por adjudicación directa.
 
-Finalmente, sobre la empresa en quinto lugar, sabemos que es originaria de Naucalpan de Juárez y fue fundada en 1984 bajo el objeto social de fabricación y compra venta de productos de latex. Según lo reporta PODER en la plataforma QQW, la empresa ha no habría recibido contratos de gobierno anteriormente. 
+Finalmente, sobre la empresa en quinto lugar, sabemos que es originaria de Naucalpan de Juárez y fue fundada en 1984 bajo el objeto social de fabricación y compra venta de productos de latex. Según lo reporta PODER en la plataforma QQW, la empresa ha no habría recibido contratos de gobierno anteriormente.
 
 
 **La lucha por los medicamentos sigue**
 
- 
+
 En junio de 2021, diversas instituciones, como AHF México y VIHeLibre señalaron irregularidades en la compra y distribución de medicamentos para el sector público en México y la posibilidad de incumplir con el abasto por la falta de medicamentos directamente en clínicas y hospitales, el subejercicio de recursos públicos y falta de información sobre los ahorros previstos. A pesar que este problema ha sido parcialmente resuelto con adjudicaciones directas e importaciones,  las organizaciones antes mencionadas también observaron una disminución del gasto en salud y una caída en la atención de enfermedades de alta especialidad.
 
 En lo que respecta específicamente al tratamiento antirretroviral, la AHF prevé una ola de escasez que pondrá en riesgo la salud de las personas que viven con VIH. “Yo veo una verdadera preocupación porque va a llegar junio y vamos a tener un desabasto muy grande (...) Una falta de previsión de este tamaño sí es grave”, argumenta Patricia Campos de la AIDS Healthcare Fundation (AHF) en América Latina y el Caribe, con sede en México en entrevista con PODER4.
@@ -108,7 +112,7 @@ El activismo o la organización popular han sido, indiscutiblemente, una de las 
 
 ~~~
 —Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista.
-Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
+Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable.
 
 —¿Qué le dirías a las personas que opinan que la marcha del orgullo no les representa.
 
