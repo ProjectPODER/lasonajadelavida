@@ -38,7 +38,7 @@ bods_url: "/assets/data/owners.csv"
 
 graph:
   # The name of your graphic
-  - title: "Graphic name"
+  - title: "1,127,063,210.59"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
