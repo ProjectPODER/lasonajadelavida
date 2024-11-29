@@ -27,7 +27,7 @@ description: >-
 top_menu: true
 
 # Customize the More information menu button title
-menu_button_title: More information
+menu_button_title: Más información
 
 # URL of your contracts file or API endpoint
 contracts_url: "/assets/data/contracts.csv"
