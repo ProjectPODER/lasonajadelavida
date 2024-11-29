@@ -135,5 +135,5 @@ Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros 
 
 
 **Nota metodológica:**
-_El periodo de contratos analizado en este trabajo corresponde a los años 2023 y 2024 (El acceso al código de webcrapping y bb.dd de los contratos los puedes descargar aquí). Debido a la transición de plataformas de acceso a la información impulsada por el gobierno federal, algunos contratos o sus versiones públicas no se pueden consultar debido a que las autoridades no han concluido la migración de documentos. En este trabajo también hace uso de información obtenida mecanismos de acceso a la información y datos personales._
+_El periodo de contratos analizado en este trabajo corresponde a los años 2023 y 2024 (el acceso al código de webcrapping y BB.DD de los contratos los puedes descargar aquí). Debido a la transición de plataformas de acceso a la información impulsada por el gobierno federal, algunos contratos o sus versiones públicas no se pueden consultar porque las autoridades no han concluido la migración de documentos. Este trabajo también hace uso de información obtenida por mecanismos de acceso a la información._
 
