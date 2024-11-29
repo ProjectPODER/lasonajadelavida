@@ -6,6 +6,8 @@ permalink: /la-sonaja-de-la-vida/
 
 # La sonaja de la vida
 
+_Ricardo Balderas_
+
 Al día de hoy, el sistema de salud mexicano ha fallado en entregar medicamento antirretroviral en al menos 607 casos, Frida Romay coordinadora del colectivo #CeroDEsabasto, explica que este número es una cifra subestimada pues el sector salud no es del todo transparente con sus rutas de abastecimiento. Y que la lucha por cumplir con el total de tratamiento apenas comienza.
 
 En un principio no había calificativos. Había solo alegría y miedo. Josué Quino es un hombre de la tercera edad, cisgénero y que tiene 38 años viviendo con VIH. Josué llegó a la Ciudad de México en 1979, el mismo mes que ocurrió la primer marcha por la diversidad en México. Su objetivo era estudiar teatro y ocupar un espacio en la competida oferta cultural del momento, pero la vida tenía planes más complejos. Hoy, vive en Querétaro y dedica su vida a informar a las personas jóvenes sobre el VIH, pues asegura, pocas cosas han cambiado desde que llegó. Salvo los nombres con que nos referimos a las cosas, la escena homosexual conserva una quietud inquietante.
@@ -87,11 +89,6 @@ Esta empresa aparece en el Registro Público de la Propiedad de la Secretaría d
 </div>
 <br>
 
-**Créditos: Ricardo Balderas**
-
-
-
-
 Sobre la cuarta empresa, se trata de  Tecnología Médica Interamericana, una empresa originaria de Ciudad de México, cuyo objeto social es la compra venta y distribución de tecnología y equipo médico fundada en el año 2000. Esta empresa, según la plataforma quienesquien.wiki (QQW) ha recibido del presupuesto 95,214,891.75, la mitad de ellos por adjudicación directa. 
 
 Finalmente, sobre la empresa en quinto lugar, sabemos que es originaria de Naucalpan de Juárez y fue fundada en 1984 bajo el objeto social de fabricación y compra venta de productos de latex. Según lo reporta PODER en la plataforma QQW, la empresa ha no habría recibido contratos de gobierno anteriormente. 
@@ -109,28 +106,21 @@ El activismo o la organización popular han sido, indiscutiblemente, una de las 
 
 
 ~~~
-
-—Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista. Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
+—Llegar a México y darme cuenta que era una dictadura, fue un balde de agua fría. Porque además era una dictadura chafa encabezada por Miguel de la Madrid (1982). Me tocó darme cuenta de eso mientras viví un terremoto, imagínate. Me tocó toda la cuestión de la decadencia priista. 
+Por su parte para Josué Quino, el activismo o el apoyo colectivo a personas que viven con VIH seguirá teniendo sentido, mientras existan personas que sigan sin saber qué es una razzia y por qué el día de hoy pueden autonombrarse como gusten, se pueden casar, incluso adoptar bebés. Tenemos que conocer esta historia. No importa si no nos representa. Sin esos primeros pasos nuestra realidad es impensable. 
 
 —¿Qué le dirías a las personas que opinan que la marcha del orgullo no les representa.
 
 —Mira, todavía pasa. Cuando que cuando la gente migramos a la Ciudad de México por diferentes temas y casi 50 años después de todo, el desconocimiento de nuestra historia y nuestra lucha, es real. 
-
 ~~~
 
 Hoy en día, a pesar de los años, podemos ser testigos de otras luchas y otros frentes con los mismos intereses (obtener acceso libre y gratuito a medicamentos para las personas que viven con VIH), como el trabajo realizado por Nosotrxs, VIHeLibre o AHF. Han pasado ya más de 46 años de la primer protesta por la igualdad de derechos para las personas que habitan la diversidad sexogenérica y, aunque podemos asegurar que los logros son tangibles, aun falta largo camino que recorrer para lograr un México sin discriminación.     
-
-
-
-
-
 
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20365809"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20365809/thumbnail" width="100%" alt="map visualization" /></noscript></div>
 
 
 
-
-
 **Nota metodológica:**
 _El periodo de contratos analizado en este trabajo corresponde a los años 2023 y 2024 (El acceso al código de webcrapping y bb.dd de los contratos los puedes descargar aquí). Debido a la transición de plataformas de acceso a la información impulsada por el gobierno federal, algunos contratos o sus versiones públicas no se pueden consultar debido a que las autoridades no han concluido la migración de documentos. En este trabajo también hace uso de información obtenida mecanismos de acceso a la información y datos personales._
+
