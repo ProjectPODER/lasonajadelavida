@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tower Builder
+title: La sonaja de la vida
 
 # Logo image
-image: tb-logo.png
+image:
 
 #Description of your site
 description: >-
-  TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
+  Los movimientos conformados por grupos homosexuales como Grupo Horus, FHAR y Grupo Lambda coordinaban una de las primeras protestas para exigir que el Gobierno de México atendiera las necesidades en materia de salud de la población de la diversidad sexual, sin saber que estaban siendo espiados por la policía secreta del Período de la Represión y, que casi cuarenta años después, la exigencia al gobierno seguiría siendo la misma que iniciaron aquel verano del 86.
 
 # Allow top menu: true or false
 top_menu: true
@@ -34,7 +34,7 @@ contracts_url: "/assets/data/contracts.csv"
 #contracts_url: "https://api.beta.quienesquien.wiki/v2/contracts?sort=-compiledRelease.total_amount&compiledRelease.parties.memberOf.name=%2FGrupo%20Aeroportuario%2Fi&debug=true&limit=614"
 
 # URL of your beneficial ownership file or API endpoint
-bods_url: "/assets/data/owners.csv"
+bods_url: ""
 
 graph:
   # The name of your graphic
