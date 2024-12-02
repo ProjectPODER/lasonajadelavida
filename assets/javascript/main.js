@@ -47,21 +47,19 @@ var autocollapse = function (menu,maxHeight) {
 
 // Iframe
 $(document).ready(function () {
-    if( window.location.search.indexOf("iframe") > -1 ) {
+    if (window.location.search.indexOf("iframe") > -1) {
         $('#mobile-navbar').remove();
         $('a.navbar-brand').hide();
         $('button.navbar-toggler').hide();
-        $( '#desktop-navbar' ).removeClass( 'bg-dark d-none d-sm-block' ).addClass( 'justify-content-center nav-iframe' );
+        $('#desktop-navbar').removeClass('bg-dark d-none d-sm-block').addClass('justify-content-center nav-iframe');
         // $( '#nav' ).addClass( 'mx-auto' )
-        $('a').each(function(i,e) {
+        $('a').each(function (i, e) {
             if (e != window.undefined && !e.target) {
                 if (e.href.indexOf(location.hostname) > -1) {
-                    e.href = e.href+"?iframe"
+                    e.href = e.href + "?iframe"
                 }
             }
         });
-
-        updateParentUrl();
     }
 
     // when the page loads
