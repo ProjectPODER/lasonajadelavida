@@ -109,7 +109,7 @@ En junio de 2021, diversas instituciones, como la AIDS Healthcare Foundation (AH
 En lo que respecta específicamente al tratamiento antirretroviral, la AHF prevé una ola de escasez que pondrá en riesgo la salud de las personas que viven con VIH. “Yo veo una verdadera preocupación porque va a llegar junio y vamos a tener un desabasto muy grande (...) Una falta de previsión de este tamaño sí es grave”, argumenta Patricia Campos de AHF en América Latina y el Caribe, con sede en México, en entrevista con PODER1.
 
 
-![Foto: Horacio Franco. Crédito: Ricardo Balderas.](/img/Horacio Franco.jpg) 
+![Foto: Horacio Franco. Crédito: Ricardo Balderas.](assets/img/Horacio Franco(1).jpg) 
 
 
 El activismo o la organización popular ha sido, indiscutiblemente, una de las herramientas más importantes para poder comenzar con el diálogo entre autoridades y ciudadanas. “Yo el activismo lo respeto mucho. Lo ejerzo desde que llegué a Holanda con 17 años, cuando Europa todavía era un lugar democrático. Para mi el activismo comienza con uno mismo”, explica Horacio Franco, amigo del activista Juan Jacobo y del escritor Carlos Monsivaís quien pasó gran parte de su vida ayudando a la población de la diversidad sexual.
