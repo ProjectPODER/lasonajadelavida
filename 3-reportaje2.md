@@ -54,7 +54,7 @@ Al respecto, Frida Romay, explica un poco sobre la compleja estructura de seguim
 
 Sobre las compras públicas de antirretrovirales, PODER analizó todo el sistema de contrataciones  públicas (Compranet) correspondientes a los años donde #CeroDesabasto tuvo sus mayores números de reportes (2023 y 2024). Sin embargo, debido a la reciente solicitud para desaparecer organismos autónomos, incluido el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI), el contenido de dichos contratos no está ya disponible, por lo que resulta imposible determinar la cantidad de suministros y tratamientos correspondientes a las compras reflejadas en los contratos1.
 
-![Foto: Horacio Franco. Crédito: Cortesía.](/img/01_FRIDA_ROMAY.jpg) 
+![Foto: Horacio Franco. Crédito: Cortesía.](assets/img/01_FRIDA_ROMAY.jpg) 
 
 De enero de 2023 a noviembre de 2024, las autoridades mexicanas en materia de salud erogaron un total de 1,127,063,210.59 (un mil ciento veintisiete millones sesenta y tres mil docientos diez ) pesos mexicanos en la compra de suministros y tratamientos para personas que viven con VIH. En total, se emitieron 86 órdenes de compra (adquisiciones) que en su mayoría, 62 de los casos, ocurrió sin concurso de por medio y sin competencia, es decir por adjudicación directa. 
 
