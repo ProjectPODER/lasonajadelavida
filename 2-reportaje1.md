@@ -65,7 +65,7 @@ Aquella carta aun se encuentra en el expediente policíaco. Misma fecha y mismo 
 
 Así concluye ese episodio. Tanto para la policía secreta como para Juan Jacobo, hasta que el 2 de octubre del mismo año (1980, durante el doceavo aniversario de la Matanza de Tlatelolco) el Frente Homosexual de Acción Revolucionaria (FHAR), el Grupo Lambda de Liberación Homosexual y el Grupo Autónomo de Lesbianas Oikabeth participaron de nueva cuenta en un contingente en la marcha conmemorativa del movimiento estudiantil de 1968 y el espionaje, que para algunos fue contubernio sexual o diversión inocente, siguió operando.
 
-El primer caso de SIDA llegó a México en 19831. El acontecimiento tuvo lugar en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, al sur de la Ciudad de México. Tan sólo un año después, el interés del gobierno espía del Partido Revolucionario Institucional (PRI), tomó un extraño rumbo pues los policías comenzaron a investigar y registrar las protestas, así como a los grupos de activistas que apoyaron a personas seropositivas.
+El primer caso de SIDA llegó a México en 1983. El acontecimiento tuvo lugar en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, al sur de la Ciudad de México. Tan sólo un año después, el interés del gobierno espía del Partido Revolucionario Institucional (PRI), tomó un extraño rumbo pues los policías comenzaron a investigar y registrar las protestas, así como a los grupos de activistas que apoyaron a personas seropositivas.
 
 ## TÉRMINOS PARA REFERIRSE A LA COMUNIDAD: FLORIPONDIO, SODOMITA, FEMINOIDES
 
