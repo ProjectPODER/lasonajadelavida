@@ -6,7 +6,7 @@ permalink: /los-espias-que-guardaron-al-SIDA-en-un-cajon/
 
 # Los espías que guardaron al SIDA en un cajón
 
-Las lesbianas y homosexuales organizados en grupos tomarán las calles para manifestar con orgullo su condición sexual y levantarán sus voces en contra de la situación de opresión, discriminación y represión de que son objetos en las razzias…
+Las lesbianas y homosexuales organizados en grupos tomarán las calles para manifestar con orgullo su condición sexual y levantarán sus voces en contra de la situación de opresión, discriminación y represión de que son objetos en las _razzias_…
 Dirección Federal de Seguridad (1980), departamento de Investigaciones Políticas y Sociales.
 
 _Ricardo Balderas_
@@ -19,7 +19,7 @@ También se organizaban para la realización del mitin que la historia nombrarí
 
 A la cita acudieron integrantes del Partido Obrero Socialista (POS), Partido Comunista Mexicano (PMC), Grupo de Lesbianas Oikabeth, Grupo Lambda y el Frente Homosexual de Acción Revolucionaria (FHAR, en su capítulo México).
 
-Los nombres de los asistentes son caprichosamente colocados en una ficha de papel foliado con la insignia: Dirección Federal de Seguridad (DFS). Juan Jacobo Hernández, encabezando la reunión; Mario Hernández Rivas, del PCM; Rodrigo Hernández de Lambda y María de los Ángeles Márquez de Oikabeth. Se trata de información perteneciente a un expediente de la policía secreta y paramilitar que operó en México durante los años 1950 y 1980 del siglo pasado, el Periodo de la Represión1.
+Los nombres de los asistentes son caprichosamente colocados en una ficha de papel foliado con la insignia: Dirección Federal de Seguridad (DFS). Juan Jacobo Hernández, encabezando la reunión; Mario Hernández Rivas, del PCM; Rodrigo Hernández de Lambda y María de los Ángeles Márquez de Oikabeth. Se trata de información perteneciente a un expediente de la policía secreta y paramilitar que operó en México durante los años 1950 y 1980 del siglo pasado, el Periodo de la Represión(1).
 
 {:.image-post}
 ![Lista de la DFS con los asistentes a la reunión para programar la segunda marcha LGBTTTIQ+ en México]({{ site.baseurl }}/assets/img/MARCHA_02.jpg)
@@ -28,7 +28,7 @@ Los nombres de los asistentes son caprichosamente colocados en una ficha de pape
 
 El motivo real del expediente, narran los paramilitares al servicio del Partido Revolucionario Institucional (PRI), era el de investigar la adhesión del Partido Comunista Mexicano y del Partido Revolucionario de los Trabajadores (PRT) a los contingentes que exigían igualdad de derechos para las personas de la diversidad.  Hasta ese año, los policías de la DFS no mostraban interés en los grupos de homosexuales y lesbianas, ni investigaban al colectivo LGBTTTIQ+. Salvo por las actividades de algunos individuos (quienes ya eran investigados en lo individual), a la policía secreta no le parecía que el movimiento por los derechos de la diversidad pudieran convertirse en una amenaza para gobierno. De hecho, hasta este momento no había un antecedente de investigación colectiva.
 
-Cuando todo cambió, ya era tarde para dar pasos atrás. Los expedientes del México Espía, resguardados en el repositorio documental físico del Archivo General de la Nación (AGN), que se puede consultar de manera presencial en sus instalaciones, reportan que los colectivos antes mencionados tenían como objetivo enfrentarse directamente con Arturo Durazo Moreno, alias “El Negro Durazo”, un gendarme señalado por enriquecimiento inexplicable y una investigación abierta por tráfico de cocaína, desapariciones forzadas y por tener mano dura con la ciudadanía como jefe de la Policía Federal2.
+Cuando todo cambió, ya era tarde para dar pasos atrás. Los expedientes del México Espía, resguardados en el repositorio documental físico del Archivo General de la Nación (AGN), que se puede consultar de manera presencial en sus instalaciones, reportan que los colectivos antes mencionados tenían como objetivo enfrentarse directamente con Arturo Durazo Moreno, alias “El Negro Durazo”, un gendarme señalado por enriquecimiento inexplicable y una investigación abierta por tráfico de cocaína, desapariciones forzadas y por tener mano dura con la ciudadanía como jefe de la Policía Federal(2).
 
 
 ## Ruta original de la marcha del orgullo según la DFS
@@ -40,7 +40,7 @@ Cuando todo cambió, ya era tarde para dar pasos atrás. Los expedientes del Mé
 
 ## El travesti que hizo frente contra el Negro Durazo
 
-Según los documentos policíacos, Juan Jacobo Hernández, participó en el Frente Homosexual de Acción Revolucionaria desde 1979, es decir, justo el año que ocurrió la primer marcha por la diversidad en Ciudad de México (aunque su participación real fue anterior a esa fecha). El Grupo FHAR México fue el primer colectivo en el país abiertamente homosexual, en una manifestación o en el espacio público3.
+Según los documentos policíacos, Juan Jacobo Hernández, participó en el Frente Homosexual de Acción Revolucionaria desde 1979, es decir, justo el año que ocurrió la primer marcha por la diversidad en Ciudad de México (aunque su participación real fue anterior a esa fecha). El Grupo FHAR México fue el primer colectivo en el país abiertamente homosexual, en una manifestación o en el espacio público(3).
 
 El FHAR y Grupo Lambda encabezaron la primera marcha del orgullo, en aquel entonces, luchando por la visibilidad y los derechos de la comunidad de la diversidad sexual4. La historia, según quienes la vivieron, se cuenta de la siguiente manera: En 1971, debido a la violencia de Estado, se configuró en México la primera asociación a favor de los derechos de las personas LGBTTTIQ+, la cual llevó por nombre Frente de Liberación Homosexual de México (FLH). Este grupo fue la reacción de un grupo de homosexuales tras un acto de discriminación en contra de un hombre despedido por una tienda departamental en la Ciudad de México al creer que era homosexual; entre los participantes se encontraban el escritor Carlos Monsiváis y la dramaturga Nancy Cárdenas.
 
@@ -63,7 +63,7 @@ En ese contexto de esperanza y habiendo impulsado la primer marcha por el orgull
 
 Aquella carta aun se encuentra en el expediente policíaco. Misma fecha y mismo lugar a donde la privilegiada memoria de Juan Jacobo nos llevó.
 
-Así concluye ese episodio. Tanto para la policía secreta como para Juan Jacobo, hasta que el 2 de octubre del mismo año (1980, durante el doceavo aniversario de la Matanza de Tlatelolco) el Frente Homosexual de Acción Revolucionaria (FHAR), el Grupo Lambda de Liberación Homosexual y el Grupo Autónomo de Lesbianas Oikabeth participaron de nueva cuenta en un contingente en la marcha conmemorativa del movimiento estudiantil de 1968 y el espionaje, que para algunos fue contubernio sexual o diversión inocente, siguió operando.
+Así concluye ese episodio. Tanto para la policía secreta como para Juan Jacobo, hasta que el 2 de octubre del mismo año (1980, durante el doceavo aniversario de la Matanza de Tlatelolco) cuando el Frente Homosexual de Acción Revolucionaria (FHAR), el Grupo Lambda de Liberación Homosexual y el Grupo Autónomo de Lesbianas Oikabeth participaron de nueva cuenta en un contingente en la marcha conmemorativa del movimiento estudiantil de 1968 y el espionaje, que para algunos fue contubernio sexual o diversión inocente, siguió operando.
 
 El primer caso de SIDA llegó a México en 1983. El acontecimiento tuvo lugar en el Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, al sur de la Ciudad de México. Tan sólo un año después, el interés del gobierno espía del Partido Revolucionario Institucional (PRI), tomó un extraño rumbo pues los policías comenzaron a investigar y registrar las protestas, así como a los grupos de activistas que apoyaron a personas seropositivas.
 
